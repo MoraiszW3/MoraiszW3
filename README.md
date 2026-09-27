@@ -20,7 +20,7 @@ const gabriel = {
   onde: "Gaspar, SC — Brasil",
   cargo: ["Front-end Dev"],
   foco: ["e-commerce & Criação de sites", "experiências 3D", "apps instaláveis (PWA)"],
-  stack: ["HTML", "CSS", "JavaScript", "Supabase", "PWA"],
+  stack: ["React", "Java", "JavaScript", "Python", "HTML", "CSS", "Supabase"],
   tese: "Site bom é site que parece caro e vende sozinho.",
   idioma: "pt-BR por padrão — código, commit e README",
 };
@@ -42,18 +42,15 @@ const gabriel = {
 
 **Linguagens**
 
-<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="linguagens" />
+<img src="https://skillicons.dev/icons?i=react,java,js,python&theme=dark" alt="linguagens" />
 
-**Front & Dados**
+**Front**
 
-<img src="https://skillicons.dev/icons?i=supabase,figma,netlify&theme=dark" alt="front" />
+<img src="https://skillicons.dev/icons?i=html,css,figma&theme=dark" alt="front" />
 
 **Ferramentas**
 
-<img src="https://img.shields.io/badge/OpenCode-FFFFFF?style=flat-square&logoColor=black" alt="opencode" />
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="figma" />
-<img src="https://img.shields.io/badge/Antigravity-4285F4?style=flat-square&logo=google&logoColor=white" alt="antigravity" />
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="git" />
+<img src="https://raw.githubusercontent.com/MoraiszW3/portfolio/master/icons/tools.svg" alt="opencode, figma e antigravity" />
 
 </div>
 
