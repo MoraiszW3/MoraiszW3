@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/MoraiszW3/portfolio/master/icons/w3-logo.svg" alt="W3" width="110" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2800&pause=900&color=F97316&center=true&vCenter=true&width=720&lines=E+a%C3%AD%2C+Dev.+Gabriel+aqui.+%F0%9F%91%8B;Front-end+de+e-commerce+de+luxo;Sites+3D+%2B+Apps+instal%C3%A1veis;Bora+construir+algo%3F+%F0%9F%91%80" alt="Gabriel" />
 <br/>
-<img src="https://raw.githubusercontent.com/MoraiszW3/portfolio/master/icons/headline.svg" alt="Gabriel" width="100%" />
+<img src="https://raw.githubusercontent.com/MoraiszW3/portfolio/master/icons/w3-logo.png" alt="W3" width="110" />
 
 <br/>
 
