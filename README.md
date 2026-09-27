@@ -19,7 +19,7 @@ const gabriel = {
   nome: "Gabriel Morais",
   onde: "Gaspar, SC — Brasil",
   cargo: ["Front-end Dev"],
-  foco: ["e-commerce de luxo", "experiências 3D", "apps instaláveis (PWA)"],
+  foco: ["e-commerce & Criação de sites", "experiências 3D", "apps instaláveis (PWA)"],
   stack: ["HTML", "CSS", "JavaScript", "Supabase", "PWA"],
   tese: "Site bom é site que parece caro e vende sozinho.",
   idioma: "pt-BR por padrão — código, commit e README",
@@ -29,7 +29,7 @@ const gabriel = {
 - 💎 **Vivo no e-commerce:** vitrine cinematográfica, coleção com filtros, sacola, wishlist e página de produto.
 - 🏗️ **3D na veia:** coverflow de produtos, quick-view com galeria e modelos 3D.
 - 📲 **App de verdade:** PWA instalável com backend realtime, aprovações e push.
-- 🇧🇷 **Construo em português.** Se você lê isso e entende tudo, já somos do mesmo time.
+
 
 > *"Preço é o que você paga. Valor é o que o site aparenta."*
 
@@ -72,7 +72,7 @@ const gabriel = {
 |---|---|---|
 | **Moraiz Madison** | E-commerce de luxo: vitrine cinemática, coleção 3D, sacola + wishlist | HTML + CSS + JS |
 | **Mz4 agency** | App painel instalável com realtime, aprovações e fotos | PWA + Supabase |
-| **PLX Brasil** | Site de máquinas com redesign 3D e modelos | HTML + CSS + JS + 3D |
+
 
 ---
 
