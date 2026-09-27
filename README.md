@@ -50,7 +50,10 @@ const gabriel = {
 
 **Ferramentas**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="ferramentas" />
+<img src="https://img.shields.io/badge/OpenCode-FFFFFF?style=flat-square&logoColor=black" alt="opencode" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="figma" />
+<img src="https://img.shields.io/badge/Antigravity-4285F4?style=flat-square&logo=google&logoColor=white" alt="antigravity" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="git" />
 
 </div>
 
